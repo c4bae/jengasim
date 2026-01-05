@@ -8,7 +8,7 @@
 
 HandSim is a full-stack application for simulating hand interactions with objects in a 3D environment. It uses a frontend built with React, TypeScript, react-three-fiber (Three.js), and Rapier for physics, and a Python backend leveraging OpenCV and MediaPipe for hand landmark detection. The frontend and backend communicate in real time using WebSockets.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, TypeScript, Vite, react-three-fiber (Three.js), Rapier (physics)
 - **Backend:** Python, OpenCV, MediaPipe
@@ -17,7 +17,7 @@ HandSim is a full-stack application for simulating hand interactions with object
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 frontend/
@@ -37,7 +37,7 @@ backend/
 
 ---
 
-## 🚀 Usage Instructions
+## Usage Instructions
 
 ### 1. Install Dependencies
 
@@ -71,7 +71,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 📁 Key Files & Folders
+## Key Files & Folders
 
 - `frontend/src/Components/` — React components for simulation objects
 - `frontend/src/Hooks/` — Custom hooks for hand and frame data
@@ -82,7 +82,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🧩 Features
+## Features
 
 - Real-time hand simulation and visualization using MediaPipe landmarks
 - Interactive 3D objects (Jenga blocks, barriers, projectiles) for experimentation
