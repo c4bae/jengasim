@@ -1,8 +1,12 @@
 # HandSim
 
-HandSim is a full-stack application for simulating hand interactions with objects in a 3D environment. It uses a frontend built with React, TypeScript, react-three-fiber (Three.js), and Rapier for physics, and a Python backend leveraging OpenCV and MediaPipe for hand landmark detection. The frontend and backend communicate in real time using WebSockets.
+<p align="center">
+  <kbd>
+    <img width="1437" height="745" alt="PreviewImage" src="https://github.com/user-attachments/assets/ec6a58ac-e191-4e90-ad5b-08585ef735e0" />
+  </kbd>
+</p>
 
----
+HandSim is a full-stack application for simulating hand interactions with objects in a 3D environment. It uses a frontend built with React, TypeScript, react-three-fiber (Three.js), and Rapier for physics, and a Python backend leveraging OpenCV and MediaPipe for hand landmark detection. The frontend and backend communicate in real time using WebSockets.
 
 ## 🛠️ Tech Stack
 
